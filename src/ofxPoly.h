@@ -1,10 +1,9 @@
 //
-//  ofxLines.h
-//  example
-//
 //  Created by Lukasz Karluk on 14/09/2015.
 //
 //
+
+//#define OF_USE_LEGACY_VECTOR_MATH 1
 
 #include "ofMain.h"
 
